@@ -1,0 +1,4 @@
+﻿2024-09-06 09:52:54,518 [llama3koen_sfttrainer, line 84] WARNING: Directory not found. (./models/Llama-3-Open-Ko-8B-csi-report-acctyp/dataset)
+Creating directory on './models/Llama-3-Open-Ko-8B-csi-report-acctyp/dataset'.
+2024-09-06 09:52:54,520 [llama3koen_sfttrainer, line 86] INFO: Created directory: ./models/Llama-3-Open-Ko-8B-csi-report-acctyp/dataset
+2024-09-06 09:52:54,552 [llama3koen_sfttrainer, line 92] INFO: Training and test sets saved as './models/Llama-3-Open-Ko-8B-csi-report-acctyp/dataset/train.json' and './models/Llama-3-Open-Ko-8B-csi-report-acctyp/dataset/test.json'

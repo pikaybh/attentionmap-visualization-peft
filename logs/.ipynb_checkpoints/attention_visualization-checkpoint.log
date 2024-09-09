@@ -1,0 +1,261 @@
+﻿2024-09-07 03:45:39,423 [attention_visualization, line 230] DEBUG: <|begin_of_text|>
+2024-09-07 03:45:39,423 [attention_visualization, line 230] DEBUG: <s
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: >[
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: INST
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: ]
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 201
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 9
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: .
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 12
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: .
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 28
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  일
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 용
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 직
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  작업
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 자가
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  공
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 사
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 현
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 장
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 에서
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  비
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 계
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 3
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 층
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  높
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 이
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 에서
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  외부
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 비
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 계
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  해
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 체
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  작업
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 중
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  발
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 을
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  �
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: �
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 디
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: �
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: �
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: �
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  추
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 락
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 함
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: .
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  사
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 고
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 당
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 일
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  병
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 원
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 으로
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  이
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 송
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 되었
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 으며
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: ,
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  의
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 식
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 불
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 명
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 으로
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  입
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 원
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 중
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 202
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 0
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: .
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 01
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: .
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 10
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 일
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  사망
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG: 함
+2024-09-07 03:45:39,424 [attention_visualization, line 230] DEBUG:  [/
+2024-09-07 03:45:39,425 [attention_visualization, line 230] DEBUG: INST
+2024-09-07 03:45:39,425 [attention_visualization, line 230] DEBUG: ]
+2024-09-07 03:45:39,425 [attention_visualization, line 234] DEBUG: attentions[0][0].size() = torch.Size([1, 32, 81, 81])
+2024-09-07 03:45:39,469 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:40,216 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head01.png
+2024-09-07 03:45:40,216 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:40,961 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head02.png
+2024-09-07 03:45:40,962 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:41,701 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head03.png
+2024-09-07 03:45:41,701 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:42,598 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head04.png
+2024-09-07 03:45:42,598 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:43,339 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head05.png
+2024-09-07 03:45:43,339 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:44,066 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head06.png
+2024-09-07 03:45:44,067 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:44,800 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head07.png
+2024-09-07 03:45:44,800 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:45,546 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head08.png
+2024-09-07 03:45:45,547 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:46,315 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head09.png
+2024-09-07 03:45:46,315 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:47,275 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head10.png
+2024-09-07 03:45:47,276 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:48,031 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head11.png
+2024-09-07 03:45:48,032 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:48,786 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head12.png
+2024-09-07 03:45:48,787 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:49,571 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head13.png
+2024-09-07 03:45:49,571 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:50,334 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head14.png
+2024-09-07 03:45:50,334 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:51,291 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head15.png
+2024-09-07 03:45:51,292 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:52,060 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head16.png
+2024-09-07 03:45:52,060 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:52,821 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head17.png
+2024-09-07 03:45:52,822 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:53,576 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head18.png
+2024-09-07 03:45:53,576 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:54,329 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head19.png
+2024-09-07 03:45:54,329 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:55,284 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head20.png
+2024-09-07 03:45:55,285 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:56,047 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head21.png
+2024-09-07 03:45:56,048 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:56,810 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head22.png
+2024-09-07 03:45:56,810 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:57,572 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head23.png
+2024-09-07 03:45:57,573 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:58,329 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head24.png
+2024-09-07 03:45:58,329 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:45:59,296 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head25.png
+2024-09-07 03:45:59,297 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:00,052 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head26.png
+2024-09-07 03:46:00,052 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:00,804 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head27.png
+2024-09-07 03:46:00,804 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:01,559 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head28.png
+2024-09-07 03:46:01,560 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:02,315 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head29.png
+2024-09-07 03:46:02,316 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:03,280 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head30.png
+2024-09-07 03:46:03,281 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:04,046 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head31.png
+2024-09-07 03:46:04,047 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:04,796 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer01_head32.png
+2024-09-07 03:46:04,797 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:05,545 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head01.png
+2024-09-07 03:46:05,545 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:06,302 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head02.png
+2024-09-07 03:46:06,303 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:07,272 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head03.png
+2024-09-07 03:46:07,273 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:08,033 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head04.png
+2024-09-07 03:46:08,034 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:08,791 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head05.png
+2024-09-07 03:46:08,792 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:09,555 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head06.png
+2024-09-07 03:46:09,555 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:10,316 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head07.png
+2024-09-07 03:46:10,316 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:11,295 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head08.png
+2024-09-07 03:46:11,296 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:12,063 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head09.png
+2024-09-07 03:46:12,064 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:12,814 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head10.png
+2024-09-07 03:46:12,815 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:13,579 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head11.png
+2024-09-07 03:46:13,580 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:14,330 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head12.png
+2024-09-07 03:46:14,331 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:15,297 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head13.png
+2024-09-07 03:46:15,297 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:16,052 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head14.png
+2024-09-07 03:46:16,052 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:16,807 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head15.png
+2024-09-07 03:46:16,807 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:17,559 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head16.png
+2024-09-07 03:46:17,560 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:18,322 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head17.png
+2024-09-07 03:46:18,322 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:19,090 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head18.png
+2024-09-07 03:46:19,090 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:20,100 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head19.png
+2024-09-07 03:46:20,101 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:20,865 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head20.png
+2024-09-07 03:46:20,866 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:21,626 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head21.png
+2024-09-07 03:46:21,626 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:22,412 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head22.png
+2024-09-07 03:46:22,412 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:23,172 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head23.png
+2024-09-07 03:46:23,172 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:24,144 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head24.png
+2024-09-07 03:46:24,144 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:24,903 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head25.png
+2024-09-07 03:46:24,903 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:25,670 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head26.png
+2024-09-07 03:46:25,671 [attention_visualization, line 194] DEBUG: attention.size = 6561
+
+2024-09-07 03:46:26,446 [attention_visualization, line 211] INFO: Saved at output/Llama-3-Open-Ko-8B/20240907_034539/attention_map_layer02_head27.png
+2024-09-07 03:46:26,446 [attention_visualization, line 194] DEBUG: attention.size = 6561
+

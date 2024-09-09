@@ -1,0 +1,4 @@
+.env
+models/**/ckpts
+models/**/results
+**.safetensors

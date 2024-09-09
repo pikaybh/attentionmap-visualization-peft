@@ -1,0 +1,7 @@
+accelerate==0.29.3
+peft==0.10.0
+bitsandbytes==0.43.1
+transformers==4.40.1
+trl==0.8.6
+datasets==2.19.0
+flash-attn
